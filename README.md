@@ -10,3 +10,10 @@
 - This project was the most complete project of this course where it was covered many different topics of HTML and CSS development such as design process/steps, different sections of the page (heading, hero section, footer, ...) and make it responsive by using queries.
 
 ##
+
+**OBSERVATIONS**
+
+- This is a fictional brand;
+- The form "Get your first meal for free!" is only visual and does not work;
+- All the informations like address, email, phone number at the footer is only representative;
+- All the images were provided at the course;
