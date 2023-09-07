@@ -16,4 +16,4 @@
 - This is a fictional brand;
 - The form "Get your first meal for free!" is only visual and does not work;
 - All the informations like address, email, phone number at the footer is only representative;
-- All the images were provided at the course;
+- All the images used at the landing page were provided at the course;
