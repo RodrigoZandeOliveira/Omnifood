@@ -1,6 +1,8 @@
 OMNIFOOD
 Live Link: https://rodrigozandeoliveira.github.io/Omnifood/
 
+![Omnifood Preview](omnifood_preview_20230907.jpg)
+
 ##
 
 Category: Landing Page
